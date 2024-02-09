@@ -1,6 +1,6 @@
-# Deven Mallamo 
-
-Hi! 👋 I'm a Junior SDE at Amazon. I am currently studying Computer Science and Piano Performance at Oakland University.
+# Deven Mallamo
+ 
+Hi! <img src=handwave.svg> I'm a Junior SDE at Amazon. I am currently studying Computer Science and Piano Performance at Oakland University.
 
 ## Q&A
 
@@ -14,7 +14,7 @@ computer do thing for me
 
 ### Is object oriented programming any good?
 
-yes, until you create an abstract singleton decorator proxy factory factory to add two numbers (But cleverly!)
+yes, until you create an abstract singleton decorator proxy factory factory to add two numbers (but cleverly!)
 
 ### What do you do outside of programming?
 
