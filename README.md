@@ -1,6 +1,6 @@
-# Deven Mallamo
+# Welcome to my GitHub Page! <img src=handwave.svg>
  
-Hi! <img src=handwave.svg> I'm a Junior SDE at Amazon. I am currently studying Computer Science and Piano Performance at Oakland University.
+Hi! I'm Deven Mallamo, a Junior SDE at Amazon. I am currently studying Computer Science and Piano Performance at Oakland University.
 
 ## Q&A
 
